@@ -1,2 +1,2 @@
 # hello-world
-Github tutorial
+I am Abhishek Nadiger, a junior in Computer Science at Texas A&M University
